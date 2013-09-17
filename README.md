@@ -1,4 +1,4 @@
-# &lt;Coreo PHP&gt;
+# Coreo PHP
 
 Access and execute Coreo applications
 
