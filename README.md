@@ -1,6 +1,6 @@
 # Coreo PHP
 
-![](https://dl.dropboxusercontent.com/u/36452000/images/apps/php-coreo.png)
+![](http://f.cl.ly/items/191y1P0W1V0h0y2Z0i0H/php-coreo.png)
 
 Access and execute Coreo applications
 
